@@ -59,4 +59,7 @@ select {
 .song:hover {
   background-color:#c0c6d7;
   transition: 2s;
+  border-radius: 200px;
+  font-style:oblique;
+  font-size: 25px;
 }
