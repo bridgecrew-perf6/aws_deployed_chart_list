@@ -55,3 +55,8 @@ select {
   margin: 0 auto 20px auto;
   padding-bottom: 20px;
 }
+
+.song:hover {
+  background-color:#c0c6d7;
+  transition: 2s;
+}
